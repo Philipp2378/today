@@ -1,0 +1,83 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+</head>
+<body>
+ <section class="About" class="hero">
+    <nav class="list">
+        <ul>
+            <li><a href="#hero">About</a></li>
+            <li><a href="#champion">Home</a></li>
+            <li><a href="#kings">Skills</a></li>
+            <li><a href="#winers">Contact</a></li>
+            <li><a href="#champes">Services</a></li>
+        </ul>
+    </nav>
+
+       <h2>About</h2>
+       <p>ODHIAMBO PHILIP</p>
+        <p>I'm a kenyan by birth<br>
+        i grew up in Nyanza region<br>
+        and What inspires me more is education and ambition<br>
+        and also am ready to learn new things for the upcoming feature</p>
+    </section>
+<section class="home" id="champion">
+        <h1>Philip Odhiambo</h1>
+        <p>I am web developer</p>
+        <p>I have 5years experience in electronic enginnearing</p>
+    </div>
+    <div class="image">
+        <img src="images/my area.jpg" alt="" width="500"height="400">
+    </div>
+</section>
+</div>
+ <div>
+    <!-- my skills section -->
+ <section class="Skills" id="kings">
+ </hr>
+ <h3>Skills</h3>
+ <p>Am good in typing</p>
+ <p>Am good in desgning and styling a web sight</p>
+ <p>Social artist</p>
+ <button>scroll down</button>
+ </section>
+</div>
+<!-- end of my skills section -->
+<section class="Contact" id="winers">
+</hr>
+<h5>Contact</h5>
+<ol>
+    <li>0746349828</li>
+    <li>0705166346</li>
+</ol>
+</section>
+<!-- Services section -->
+<section class="Services" id="champes">
+<na>
+    <li>Services</li>
+   <div>
+    <image src="images/honey.jpg" alt=""width="1200"height="500">
+</nav>
+</section>
+<section class="Icons">
+  <nav class="list">
+    <li><a href="#ps">X</a></li>
+    <li><a href="#fb">Facebook</a></li>
+    <li><a href="#me">what's App</a></li>
+    <li><a href="#far">Phone Contact</a></li>
+  </nav>
+  <section class="x" id="ps">
+    <h1>Icons</h1>
+    <image src="images/cr.jpg" alt=""width="500"height="300">
+    <image src="images/fb.jpg" alt=""width="400"height="250">
+    <image src="images/Rd.jpg" alt=""width="600"height="300">
+    </div>
+  </section>
+</section>
+</body>
+</html>
